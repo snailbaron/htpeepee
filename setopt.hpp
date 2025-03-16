@@ -1,0 +1,6 @@
+#ifndef SETOPT
+    #define SETOPT(OPTION, FUNCTION_NAME, ARGUMENT, CONVERSION)
+#endif
+
+
+#undef SETOPT
